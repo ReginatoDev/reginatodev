@@ -1,5 +1,3 @@
-<script>
-
 ### Eae galera, meu nome é reginato dev, mas podem me chamar de Tiago! 😋
 
 - 🔭 Atualmente trabalhando em: Cine+
